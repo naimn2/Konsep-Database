@@ -1,0 +1,5 @@
+NIM1;Nama1;Jurusan1;Alamat1;#
+NIM2;Nama2;Jurusan2;Alamat2;#
+NIM3;Nama3;Jurusan3;Alamat3;#
+NIM4;Nama4;Jurusan4;Alamat4;#
+NIM5;Nama5;Jurusan5;Alamat5;#
