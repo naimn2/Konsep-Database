@@ -77,21 +77,7 @@ public class Ioo {
     }
 
     public static void detail(int i) throws IOException {
-        String dbtxt = read(DBNAME);
-        
-        if (!dbtxt.equals("")){
-            System.out.println("\nData Mahasiswa: ");
-            
-            String[] list = dbtxt.split("#");
-            String[] mhs = list[i].split(";");
-
-            for (int j = 0; j < mhs.length; j++) {
-                System.out.println(ATTR[j] + ": " + mhs[j]);
-            }
-        }
-        else {
-            System.out.println("Tidak ada Data");
-        }
+        // LENGKAPI
     }
 
     // Method Untuk Menambahkan Data Mahasiswa ke database
